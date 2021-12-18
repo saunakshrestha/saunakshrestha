@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @saunakshrestha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-saunakshrestha/saunakshrestha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @SUNK-STHA
+- 👀 I’m interested in Javascript,Python,Java
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Python
+- 📫 How to reach me email at sunk-stha@gmail.com
