@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saunak Shrestha</h1>
 <h3 align="center">A passionate Software Engineer from Nepal</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/saunakshrestha/saunakshrestha/blob/main/wewe.gif?raw=true"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saunakshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="saunakshrestha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saunakshrestha" alt="saunakshrestha" /></a> </p>
