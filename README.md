@@ -4,8 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://github.com/saunakshrestha/saunakshrestha/blob/main/wewe.gif?raw=true"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saunakshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="saunakshrestha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saunakshrestha" alt="saunakshrestha" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/saunak_shrestha" target="blank"><img src="https://img.shields.io/twitter/follow/saunak_shrestha?logo=twitter&style=for-the-badge" alt="saunak_shrestha" /></a> </p>
 
 - 🔭 I’m currently working on **VetMed**
