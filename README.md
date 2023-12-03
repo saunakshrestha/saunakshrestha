@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **VetMed**
 
-- 🌱 I’m currently learning **Kotlin App Development, MERN Development**
+- 🌱 I’m currently learning **Django App Development, MERN Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saunakshrestha](https://github.com/saunakshrestha)
 
