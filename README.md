@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saunakshrestha](https://github.com/saunakshrestha)
 
-- 💬 Ask me about **react, python, django**
+- 💬 Ask me about ** python, django**
 
 - 📫 How to reach me **sunk.stha@gmail.com**
 
