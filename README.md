@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on **Django projects** and building scalable web apps.
 
-- 🌱 I’m currently learning **Cloud DevOps** and expanding my skillset with **AWS, Docker, Kubernetes**.
-
 - 👨‍💻 All of my projects are available at [https://github.com/saunakshrestha](https://github.com/saunakshrestha).
 
-- 💬 Ask me about **Python, Django, Flask, FastAPI**.
+- 💬 Ask me about **Python, Django, Flask**.
 
 - 📫 How to reach me: **sunk.stha@gmail.com**
 
@@ -51,9 +49,6 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" width="40" height="40" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
   </a>
@@ -62,10 +57,7 @@
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  </a>
-  <a href="https://www.kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40" />
-  </a>
+  </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
